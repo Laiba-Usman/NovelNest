@@ -33,9 +33,9 @@ No login. No subscriptions. No ads. Just books.
 |---|---|---|
 | ![Reading Screen](screenshots/readingscreen.jpeg) | ![Reader Settings](screenshots/readingscreensetting.jpeg) | ![Dark Mode](screenshots/darkmode.jpeg) |
 
-| Add Bookmark |           |          |
-|---|---|---|
-| ![Add Bookmark](screenshots/addbookmark.jpeg)     |                                                           |                                             |
+| Add Bookmark |
+|---|
+| ![Add Bookmark](screenshots/addbookmark.jpeg)     |  
 
 ---
 
