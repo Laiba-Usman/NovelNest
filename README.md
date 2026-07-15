@@ -118,4 +118,4 @@ NovelNest stores everything locally using sqflite across three tables:
 
 ---
 
-Made by Laiba Usman
+**Laiba Usman** [https://github.com/Laiba-Usman]
